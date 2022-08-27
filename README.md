@@ -1,6 +1,6 @@
 # GitforGithub
 
-pwd 顯示當前資料夾 
+pwd 顯示當前資料夾  \n
 ls   顯示當前資料夾底下內容
 initialize(init)-初始化
 git -指令 
